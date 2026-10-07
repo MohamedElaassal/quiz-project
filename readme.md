@@ -4,7 +4,7 @@ Quizzy, a JavaFX-based realtime quiz application that allows users to play quizz
 
 ## Prerequisites
 
-- Java 21 or higher
+- Java 23 or higher
 - Maven 3.6 or higher
 
 ## Running the Application
